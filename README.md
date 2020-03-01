@@ -10,10 +10,10 @@ Then you have the option to make an inside
 level selection of each elevator 
 
 # HOW to RUN the VISUAL MONITOR
-python3 elevator_monitor.py
+`python3 elevator_monitor.py`
 
 # RUNNING TESTS
-python3 tests.py
+`python3 tests.py`
 
 # CODING STYLE
 https://www.python.org/dev/peps/pep-0008/
